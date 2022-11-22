@@ -1,4 +1,5 @@
-USE misitedb;
+create database practica;
+use practica;
 
 CREATE TABLE restaurante (
     id int NOT NULL AUTO_INCREMENT,
